@@ -12,7 +12,7 @@ action: true
 # Menü
 ### [Auf Viktor klicken um die Seite zu öffnen:](http://viktor-chiarcos.github.io)
   <a href="http://viktor-chiarcos.github.io">
-  	![](/Fotos/viktor1.jpg)
+  	<img src="../Fotos/viktor1.jpg" alt="Bild: Viktor Chiarcos" style="width: 50%;" />
   </a><br/>
 [Wetter](http://wetter.com)\
 [GitHub](http://github.com/rybkintimofey28)\
