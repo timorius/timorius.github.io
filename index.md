@@ -11,7 +11,7 @@ action: true
 
 # Menü
   <a href="http://viktor-chiarcos.github.io">
-  	![](/Fotos/viktor1.jpg)
+  	![Auf Viktor klicken um die **Seite zu öffnen**](/Fotos/viktor1.jpg)
   </a><br/>
 [Wetter](http://wetter.com)\
 [GitHub](http://github.com/rybkintimofey28)\
