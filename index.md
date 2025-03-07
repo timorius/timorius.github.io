@@ -24,4 +24,4 @@ action: true
 
 ---
 # Hallo Welt
-  <img src="../Fotos/love1.jpg" alt="Ich liebe dich aus ganzem Herzen" style="width: 70%;" />
+  <img src="../Fotos/love1.jpg" alt="Ich liebe dich aus ganzem Herzen" style="width: 95%;" />
