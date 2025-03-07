@@ -10,7 +10,7 @@ action: true
 ---
 
 # Menü
-### [Auf Viktor klicken um die Seite zu öffnen:](http://viktor-chiarcos.github.io)
+### [Viktor Chiarcos](http://viktor-chiarcos.github.io)
   <a href="http://viktor-chiarcos.github.io">
   	<img src="../Fotos/viktor1.jpg" alt="Bild: Viktor Chiarcos" style="width: 50%;" />
   </a><br/>
