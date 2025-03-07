@@ -14,7 +14,7 @@ action: true
 # Menü
 ### [Viktor Chiarcos](http://viktor-chiarcos.github.io)
   <a href="http://viktor-chiarcos.github.io">
-  	<img src="../Fotos/viktor1.jpg" alt="Bild: Viktor Chiarcos" style="width: 50%;" />
+  	<img src="../Fotos/viktor1.jpg" alt="Viktor Chiarcos" style="width: 50%;" />
   </a><br/>
 
 [Wetter](http://wetter.com)\
@@ -24,3 +24,4 @@ action: true
 
 ---
 # Hallo Welt
+  <img src="../Fotos/viktor1.jpg" alt="Ich liebe dich aus ganzem Herzen" style="width: 50%;" /></a>
