@@ -27,4 +27,5 @@ action: true
  **hier ist noch eine Baustelle**
  ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
 # Hallo Welt
-  <img src="../Fotos/love1.jpg" alt="Ich liebe dich aus ganzem Herzen" style="width: 95%;" />
+  <img src="../Fotos/love1.jpg" alt="Ich liebe dich aus ganzem Herzen" style="width: 95%;" /><br/>
+Ich bin aktuell ein Au Pair bei Familie Chiarcos.
