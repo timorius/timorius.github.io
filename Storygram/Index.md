@@ -9,6 +9,20 @@ action: true
 
 ---
 
+
+# Menü
+### [Viktor Chiarcos](http://viktor-chiarcos.github.io)
+  <a href="http://viktor-chiarcos.github.io">
+  	<img src="../Fotos/viktor1.jpg" alt="Viktor Chiarcos" style="width: 50%;" />
+  </a><br/>
+
+[Startseite](/)\
+Storygram\
+[Wetter](http://wetter.com)\
+[GitHub](http://github.com/rybkintimofey28)\
+[Russisch *translate.google.com*](https://rybkintimofey28-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=ru&_x_tr_hl=de&_x_tr_pto=wapp)\
+[Englisch *translate.google.com*](https://rybkintimofey28-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
+
 # Storygram
 + Stories von Timofey Rybkin
 
