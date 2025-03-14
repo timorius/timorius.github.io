@@ -10,7 +10,7 @@ action: true
 ---
 
 # Inkognito Modus ist Aktiviert
-<div style="color:red;">
+
   WARNUNG:
 
 
