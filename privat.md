@@ -27,3 +27,15 @@ Nur Administratoren dürfen hier sein
 # Was hierher soll
 - Stories
 + vieles mehr...
+
+## Ein Angebot für hier
++ Videos
++ Fotos
++ YouTube Empfehlungen
++ Ein Infovideo
++ WhatsApp Gruppe
++ 2 Callerlinks (Zum Anrufem)
+
+# Wo ich Hilfe brauche
++ Markdown kennenlernen
++ ...
