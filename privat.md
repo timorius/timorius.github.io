@@ -10,11 +10,12 @@ action: true
 ---
 
 # Inkognito Modus ist Aktiviert
-WARNUNG:
+<div style="color:red;">
+  WARNUNG:
 
 
-hier ist der Privatbereich von Timofey Rybkin.\
-Nur Administratoren dürfen hier sein
+  hier ist der Privatbereich von Timofey Rybkin.\
+  Nur Administratoren dürfen hier sein
 
 # Ich sende bald:
 - Ich bin Au Pair
