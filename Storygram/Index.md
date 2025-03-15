@@ -11,11 +11,7 @@ action: true
 
 
 # Menü
-### [Viktor Chiarcos](http://viktor-chiarcos.github.io)
-  <a href="http://viktor-chiarcos.github.io">
-  	<img src="../Fotos/viktor1.jpg" alt="Viktor Chiarcos" style="width: 50%;" />
-  </a><br/>
-
+[Viktor Chiarcos](http://viktor-chiarcos.github.io)\
 [Startseite](/)\
 Storygram\
 [YouTube](/youtube)\
