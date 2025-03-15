@@ -27,7 +27,7 @@ action: true
 
 # Was hierher soll
 - Stories
-+ vieles mehr...
++ 
 
 ## Ein Angebot für hier
 + Videos
@@ -35,9 +35,8 @@ action: true
 + YouTube Empfehlungen
 + Ein Infovideo
 + WhatsApp Gruppe
-+ 2 Callerlinks (Zum Anrufem)
++ 2 Callerlinks (Zum Anrufen)
 
 # Wo ich Hilfe brauche
 + Markdown kennenlernen
 + Mit HTML Videos einfügen
-+ vieles mehr...
