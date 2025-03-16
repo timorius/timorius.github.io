@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /Storygram/stories/2025-3-9/Das-bin-ich/version+2/?si=1b872u785hj0n4/
+permalink: /Storygram/stories/2025-3-9/Das-bin-ich/version+2?si=1b872u785hj0n4/
 title: "Das bin ich!"
 excerpt: "Wilkommen bei mir"
 action: true
