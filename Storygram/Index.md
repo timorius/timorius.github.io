@@ -24,9 +24,7 @@ Storygram\
 # Storygram
 + Stories von Timofey Rybkin
 
-### [Das bin ich!](/Storygram/stories/2025-3-9/Das-bin-ich/)
-
-# Das bin ich!
+# [Das bin ich!](/Storygram/stories/2025-3-9/Das-bin-ich/)
 ## Aktivität
 ### Create Das Bin Ich!
 - Datum: 2025-3-9
