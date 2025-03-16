@@ -26,11 +26,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checken
         uses: actions/checkout@v4
-      - name: Setup Pages
+      - name: Einrichtung
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
+      - name: Übesetzen
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
@@ -41,7 +41,7 @@ jobs:
   # Deployment job
   deploy:
     environment:
-      name: github-pages
+      name: GitHub Seiten
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
