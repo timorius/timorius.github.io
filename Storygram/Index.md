@@ -25,5 +25,12 @@ Storygram\
 + Stories von Timofey Rybkin
 
 ### [Das bin ich!](/Storygram/stories/2025-3-9/Das-bin-ich/)
+
+# Das bin ich!
+## Aktivität
+### Create Das Bin Ich!
 - Datum: 2025-3-9
 - Uhrzeit: 10:44
+### Update 1 Das Bin Ich!
+- Datum: 2025-3-16
+- Uhrzeit: 09:16
