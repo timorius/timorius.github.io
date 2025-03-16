@@ -12,13 +12,10 @@ action: true
 - Achtung: hier *kommt der* **GROßE TIM**
 - Ich heiße mit *Nachname* **Rybkin**
 # Menü
-### [Viktor Chiarcos](http://viktor-chiarcos.github.io)
-  <a href="http://viktor-chiarcos.github.io">
-  	<img src="../Fotos/viktor1.jpg" alt="Viktor Chiarcos" style="width: 50%;" />
-  </a><br/>
-
+[Viktor Chiarcos](https://viktor-chiarcos.github.io)\
 Startseite\
 [Storygram](/Storygram/)\
+[YouTube](/youtube/)\
 [Wetter *wetter.com* (Nicht meine URL)](http://wetter.com)\
 [GitHub *github.com* (Nicht meine URL)](http://github.com/rybkintimofey28)\
 [Russisch *translate.google.com* (Nicht meine URL)](https://rybkintimofey28-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=ru&_x_tr_hl=de&_x_tr_pto=wapp)\

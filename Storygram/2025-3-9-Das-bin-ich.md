@@ -12,11 +12,20 @@ action: true
 # [Storygram](/Storygram)
 
 # Das bin ich!
+## Aktivität
+### Create Das Bin Ich!
 - Datum: 2025-3-9
 - Uhrzeit: 10:44
+### Update 1 Das Bin Ich!
+- Datum: 2025-3-16
+- Uhrzeit: 09:16
 
 ![](/Fotos/tim1.jpg)
 
+
+# Über die Story:
+## Author: TIMOFEY RYBKIN
+### Authorbild: ![](https://avatars.githubusercontent.com/u/194587225?v=4)
 # Follow on:
 [GitHub](https://github.com/rybkintimofey28/)
 
