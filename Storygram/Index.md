@@ -8,6 +8,10 @@ action: true
 #action_btn:
 
 ---
+<script>
+  alert("Achtung! Nach jeder änderung von einer Story wird die Versionsnummer geändert!")
+  alert("Mit freundlichen Grüßen Timofey Rybkin")
+</script>
 
 
 # Menü
