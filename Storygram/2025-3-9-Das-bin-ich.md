@@ -10,6 +10,8 @@ action: true
 ---
 # [Storygram](/Storygram)
 
+# [Storygram](/Storygram)
+
 # Das bin ich!
 ## Aktivität
 ### Create Das Bin Ich!
